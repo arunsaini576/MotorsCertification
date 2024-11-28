@@ -1,0 +1,33 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit
+103,Atelier graphique,Schmitt,Carine ,40.32.2555,"54, rue Royale",NULL,Nantes,NULL,44000,France,1370,21000
+112,Signal Gift Stores,King,Jean,7025551838,8489 Strong St.,NULL,Las Vegas,NV,83030,USA,1166,71800
+114,"Australian Collectors, Co.",Ferguson,Peter,03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,1611,117300
+119,La Rochelle Gifts,Labrune,Janine ,40.67.8555,"67, rue des Cinquante Otages",NULL,Nantes,NULL,44000,France,1370,118200
+121,Baane Mini Imports,Bergulfsen,Jonas ,07-98 9555,Erling Skakkes gate 78,NULL,Stavern,NULL,4110,Norway,1504,81700
+124,Mini Gifts Distributors Ltd.,Nelson,Susan,4155551450,5677 Strong St.,NULL,San Rafael,CA,97562,USA,1165,210500
+125,Havel & Zbyszek Co,Piestrzeniewicz,Zbyszek ,(26) 642-7555,ul. Filtrowa 68,NULL,Warszawa,NULL,01-012,Poland,NULL,0
+128,"Blauer See Auto, Co.",Keitel,Roland,+49 69 66 90 2555,Lyonerstr. 34,NULL,Frankfurt,NULL,60528,Germany,1504,59700
+129,Mini Wheels Co.,Murphy,Julie,6505555787,5557 North Pendale Street,NULL,San Francisco,CA,94217,USA,1165,64600
+131,Land of Toys Inc.,Lee,Kwai,2125557818,897 Long Airport Avenue,NULL,NYC,NY,10022,USA,1323,114900
+141,Euro+ Shopping Channel,Freyre,Diego ,(91) 555 94 44,"C/ Moralzarzal, 86",NULL,Madrid,NULL,28034,Spain,1370,227600
+144,"Volvo Model Replicas, Co",Berglund,Christina ,0921-12 3555,Berguvsvägen  8,NULL,Luleå,NULL,S-958 22,Sweden,1504,53100
+145,Danish Wholesale Imports,Petersen,Jytte ,31 12 3555,Vinbæltet 34,NULL,Kobenhavn,NULL,1734,Denmark,1401,83400
+146,"Saveley & Henriot, Co.",Saveley,Mary ,78.32.5555,"2, rue du Commerce",NULL,Lyon,NULL,69004,France,1337,123900
+148,"Dragon Souveniers, Ltd.",Natividad,Eric,+65 221 7555,Bronz Sok.,Bronz Apt. 3/6 Tesvikiye,Singapore,NULL,79903,Singapore,1621,103800
+151,Muscle Machine Inc,Young,Jeff,2125557413,4092 Furth Circle,Suite 400,NYC,NY,10022,USA,1286,138500
+157,Diecast Classics Inc.,Leong,Kelvin,2155551555,7586 Pompton St.,NULL,Allentown,PA,70267,USA,1216,100600
+161,Technics Stores Inc.,Hashimoto,Juri,6505556809,9408 Furth Circle,NULL,Burlingame,CA,94217,USA,1165,84600
+166,Handji Gifts& Co,Victorino,Wendy,+65 224 1555,106 Linden Road Sandown,2nd Floor,Singapore,NULL,69045,Singapore,1612,97900
+167,Herkku Gifts,Oeztan,Veysel,+47 2267 3215,Brehmen St. 121,PR 334 Sentrum,Bergen,NULL,N 5804,Norway  ,1504,96800
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit
+363,"Nordic Souvenirs, Co.",Anderson,Johan,+46 707 55 45,Vasagatan 1,,Stockholm,,101 20,Sweden,1504,124500
+181,Tokyo Collectibles,Nakamura,Yuki,+81 3-3475-55,Shibuya Scramble Square,Suite 15,Tokyo,,150-8510,Japan,1370,112400
+278,South Coast Toy Co.,Hernandez,Carlos,323-555-7830,9800 S Sepulveda Blvd,,Los Angeles,CA,90045,USA,1165,94500
+385,Sydney Model Works,Bennett,Olivia,02 9247 55 55,123 George St,Level 2,Sydney,NSW,2000,Australia,1611,133200
+486,Hong Kong Toy Emporium,Leek,Ming,+852 2507 55 55,1 Harbour Road,Wan Chai,Hong Kong,,,Hong Kong,1621,121900
+187,Rio Grande Model Trains,Santos,Ricardo,+55 21 3212-555,Avenida Atlantica 1000,,Rio de Janeiro,,22021-001,Brazil,1337,82000
+172,Southern Cross Models,Martin,Chloe,+61 3 9376 555,500 Bourke Street,,Melbourne,VIC,3000,Australia,1286,98500
+424,Berlin Model Makers,Schmidt,Hans,+49 30 123 555,Kurf�rstendamm 100,,Berlin,,10719,Germany,1166,111700
+381,Toronto Hobby Shop,Brown,Emma,416-555-5555,10 Dundas St E,,Toronto,ON,M5B 2G9,Canada,1323,109000
+216,Milan Miniatures,Rossi,Luca,+39 02 678 555,Via Montenapoleone 8,,Milan,,20121,Italy,1216,118800
+382,Buenos Aires Toy Depot,Garcia,Sofia,+54 11 4567 555,Avenida Corrientes 1500,,Buenos Aires,,C1042AAO,Argentina,1612,102400
